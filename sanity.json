@@ -1,7 +1,7 @@
 {
   "parts": [
     {
-      "name": "part:sanity-plugin-media/asset-source",
+      "name": "part:marcostbb-plugin-media-test/asset-source",
       "implements": "part:@sanity/form-builder/input/image/asset-source",
       "path": "index.js"
     },
